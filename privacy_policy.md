@@ -54,3 +54,7 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 ## Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+
+## Information About This Privacy Policy
+
+This Privacy Policy was generated with https://www.privacypolicytemplate.net.
